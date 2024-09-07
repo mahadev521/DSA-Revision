@@ -1,0 +1,19 @@
+[September]
+"Week 1 progress"
+- Brush up all python concepts
+- Solve all string problems
+- Start array problems
+
+
+"Week 2 progress"
+- Follow sheet and make 5 % over all progress each day
+- solve 3 problems a day
+- array problems are main focus
+
+"Week 3 progress"
+- all linked list problems
+- solve 4 problems per day
+- algorithms will start this week
+
+"week 4 progress"
+- focus on algorithms only
