@@ -1,0 +1,10 @@
+[Background]
+this problem has an algorithm by a mathematician. this approach is simple you need an array of size n.
+mark all of them as true considering every number is prime.
+you know 0, 1 are not primes mark idx 0, 1 as false
+"
+traverse from 2 to stqr(n): 
+    consider i = 2 . so the sure multiple of i is i*i. so from i*i to all elements with difference 'i' mark them as false as you know the if it's multiple it cannot be a prime.
+    ***for i=2 add 1 else add 2 the least diff between consecutive primes is 2 ***
+    *** so sqrt operation is costly we use reverse of it m*m<n: ***
+"
