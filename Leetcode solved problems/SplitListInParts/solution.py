@@ -1,4 +1,4 @@
-def splitListToParts(self, head: Optional[ListNode], k: int) -> List[Optional[ListNode]]:
+def splitListToParts(head,k):
         # Step 1: Calculate the total length of the linked list
         node = head
         total_length = 0

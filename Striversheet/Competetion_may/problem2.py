@@ -1,5 +1,5 @@
 # similar to minimal distance between two identical numbers in an array
-def minimumCardPickup(self, cards: List[int]) -> int:
+def minimumCardPickup(cards):
     seen = {}
     minLen=float('inf')
     n=len(cards)
